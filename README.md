@@ -1,6 +1,5 @@
 # Hospital-Website-Sass
 
-WhatsApp and contact form working!
 Animated SVG :), animate your own to: https://storyset.com/
 
 ![Screenshot from 2022-09-15 17-29-00](https://user-images.githubusercontent.com/80070216/190503781-fd408361-d2a4-4c33-b349-2c3f3b7aaf30.png)
